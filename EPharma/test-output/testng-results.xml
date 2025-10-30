@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Medicines has been ordered]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-10-29T12:39:58 IST" name="Suite" finished-at="2025-10-29T12:39:58 IST" duration-ms="79">
+    <groups>
+    </groups>
+    <test started-at="2025-10-29T12:39:58 IST" name="Test" finished-at="2025-10-29T12:39:58 IST" duration-ms="79">
+      <class name="com.epharma.testscript.PharmacyModule">
+        <test-method signature="orderMedicines()[pri:0, instance:com.epharma.testscript.PharmacyModule@3e27aa33]" started-at="2025-10-29T12:39:58 IST" name="orderMedicines" finished-at="2025-10-29T12:39:58 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Medicines has been ordered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- orderMedicines -->
+      </class> <!-- com.epharma.testscript.PharmacyModule -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
